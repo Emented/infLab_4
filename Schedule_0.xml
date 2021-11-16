@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<title> Расписание группы P3115 </title>
+	<schedule>
+		<day>
+			<short-name-of-day> Пт </short-name-of-day>
+			<lessons>
+                <lesson>
+					<week> четная неделя </week>
+					<time> 10:00-11:30 </time>
+					<place> ул.Ломоносова, д.9, лит. М </place>
+					<room> Актовый зал </room>
+					<name> Основы профессиональной деятельности (лек) </name>
+					<teacher> Клименков Сергей Викторович </teacher>
+					<lesson-format> Очно - дистанционный </lesson-format>
+                </lesson>
+                <lesson>
+					<week> четная неделя </week>
+					<time> 11:40-13:10 </time>
+					<place> ул.Ломоносова, д.9, лит. М </place>
+					<room> Актовый зал </room>
+					<name> Программирование (лек) </name>
+					<teacher> Письмак Алексей Евгеньевич </teacher>
+					<lesson-format> Очно - дистанционный </lesson-format>
+                </lesson>
+			</lessons>
+		</day>
+	</schedule>
+</root>
